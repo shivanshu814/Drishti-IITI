@@ -89,7 +89,7 @@ footer img {
 .hero {
 	min-height: 1000px;
 	text-align: center;
-	background-image: url('../img/sky.jpg');
+	background-image: url('../img/sky2.jpg');
 	background-size: cover;
 }
 .hero-content {
@@ -97,11 +97,11 @@ footer img {
 	padding-top: 130px;
 }
 .hero-content h1 {
-	font-size: 100px;
+	font-size: 60px;
 	margin: 0;
 }
 .hero-content p {
-	font-size: 50px;
+	font-size: 30px;
 }
 .hero-content a {
 	display: inline-block;
