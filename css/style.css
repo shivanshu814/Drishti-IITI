@@ -87,7 +87,7 @@ footer img {
 
 /* styling our main content */
 .hero {
-	min-height: 1000px;
+	min-height: 670px;
 	text-align: center;
 	background-image: url('../img/sky2.jpg');
 	background-size: cover;
@@ -98,6 +98,11 @@ footer img {
 }
 .hero-content h1 {
 	font-size: 60px;
+	margin: 0;
+}
+.hero-content h3 {
+	font-size: 30px;
+
 	margin: 0;
 }
 .hero-content p {
